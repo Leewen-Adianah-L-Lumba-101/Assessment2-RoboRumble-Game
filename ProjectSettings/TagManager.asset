@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Walls
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - StopMovement
   - 
   - 
   - 
@@ -40,4 +42,40 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Walls
+    uniqueID: 1021065157
+    locked: 0
+  - name: NPC
+    uniqueID: 2747064211
+    locked: 0
+  - name: Foreground
+    uniqueID: 3174732267
+    locked: 0
+  - name: Play Area
+    uniqueID: 1744096365
+    locked: 0
+  - name: Loading Screen
+    uniqueID: 1744096365
+    locked: 0
+  - name: Player
+    uniqueID: 836017173
+    locked: 0
+  - name: Enemy
+    uniqueID: 1012755661
+    locked: 0
+  - name: Green Bar
+    uniqueID: 3192917279
+    locked: 0
+  - name: UI Bars
+    uniqueID: 3303734625
+    locked: 0
+  - name: Icons
+    uniqueID: 3047321771
+    locked: 0
+  - name: Ending Screen
+    uniqueID: 4163936953
+    locked: 0
+  - name: Ending Screen Text
+    uniqueID: 3963607447
     locked: 0
